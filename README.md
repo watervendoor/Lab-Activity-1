@@ -1,2 +1,2 @@
-# Lab-Activity-1
+# Lucky-9
 Lab Activity 1
